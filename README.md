@@ -1,1 +1,1 @@
-# CPP-Server-And-CSharp.Net-Client-Network-Ohmok-Game-Refactoring-master
+# CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game
